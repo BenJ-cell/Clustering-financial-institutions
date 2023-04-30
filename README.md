@@ -1,1 +1,1 @@
-# Clustering-financial-institutions
+# Clustering financial institutions and stocks
